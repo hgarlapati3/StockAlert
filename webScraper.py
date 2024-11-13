@@ -38,7 +38,7 @@ def send_sms(to, name, body):
         'Messages': [
             {
             "From": {
-                "Email": "rithu2019@gmail.com",
+                "Email": "harshikagarlapati05@gmail.com",
                 "Name": "Matcha Notifier"
             },
             "To": [
